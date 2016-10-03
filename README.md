@@ -1,5 +1,5 @@
 # Project 1: Model Evaluation & Validation
-#### Submission version2 from Shitao Wang
+#### Shitao Wang submission version 2
 ## Predicting Boston Housing Prices
 
 ### Install
